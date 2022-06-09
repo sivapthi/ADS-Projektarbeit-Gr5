@@ -1,5 +1,11 @@
-# ADS-Projektarbeit-Gr5
-ZHAW FS22 - Davide, Kevin und Thinesan
+# ADS Projektarbeit Gruppe5
+ZHAW - School of Management and Law 
+Frühlingssemester 22 
+
+# Autoren:
+Davide Miceli
+Kevin Ayiramala
+Thinesan Sivapathasundaram
 
 
 
@@ -17,4 +23,4 @@ ZHAW FS22 - Davide, Kevin und Thinesan
 
 
 
-Bewertungsübersicht
+# Bewertungsübersicht
