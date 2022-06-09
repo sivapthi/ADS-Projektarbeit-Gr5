@@ -1,6 +1,11 @@
 # ADS Projektarbeit Gruppe5
 ZHAW - School of Management and Law - Frühlingssemester 22 
 
+# Übersicht
+Mit unserem Projekt wollten wir herausfinden, welche Machine Learning Methode am besten vorhersagen kann, ob die Heimmannschaft gewinnt.
+Liga: Premier League
+Zeitraum: 2017 - 2021
+
 
 # Autoren
 Davide Miceli, Kevin Ayiramala und Thinesan Sivapathasundaram
