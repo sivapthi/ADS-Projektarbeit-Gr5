@@ -35,10 +35,10 @@ Versionierung und Verfügbarmachen der Daten und des Modells über GitHub
 -> https://github.com/sivapthi/ADS-Projektarbeit-Gr5.git
 
 Verwendung von Docker oder eines Cloud-Services (z.B. EC2-Instance, Jupyter-Notebook via Sagemaker) 
--> Siehe Folie Seite 6
+-> Siehe PPT Folie Seite 6
 
 Forschungsbasierte Analyse der ethischen Fragestellung und potenzielle Risiken/Bias des entwickelten Produkts 
--> Siehe ab  Folie 9
+-> Siehe ab PPT Folie 9
 
 # Quellen
 - Vorlesungsunterlagen Applied Data Science
