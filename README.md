@@ -49,6 +49,6 @@ Mit unserem Projekt wollten wir herausfinden, welche Machine Learning Methode am
 
 ## Quellen
 - Vorlesungsunterlagen Applied Data Science
-- https://github.com/llSourcell/Predicting_Winning_Teams
 - API - www.openligadb.de
 - Web scraping - www.football-data.co.uk
+- https://github.com/llSourcell/Predicting_Winning_Teams
