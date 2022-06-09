@@ -5,9 +5,7 @@ Frühlingssemester 22 <p>ZHAW - School of Management and Law
 Davide Miceli, Kevin Ayiramala und Thinesan Sivapathasundaram
   
 ## Inhaltsverzeichnis
-Übersicht
-<p>Bewertungsübersicht
-<p> Quellen
+
 
 ## Übersicht
 Mit unserem Projekt wollten wir herausfinden, welche Machine Learning Methode am besten vorhersagen kann, ob die Heimmannschaft gewinnt.
@@ -33,7 +31,7 @@ Mit unserem Projekt wollten wir herausfinden, welche Machine Learning Methode am
 
 
 
-## Bewertungsübersicht 
+## Bewertungsübersicht
 * Datenerhebung mittels Web Scraping und  API 
 -> Siehe API.ipynb und Web_scraping.ipynb
 
