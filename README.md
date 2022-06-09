@@ -43,5 +43,5 @@ Forschungsbasierte Analyse der ethischen Fragestellung und potenzielle Risiken/B
 # Quellen
 - Vorlesungsunterlagen Applied Data Science
 - https://github.com/llSourcell/Predicting_Winning_Teams
-- API - openligadb.de
+- API - www.openligadb.de
 - Web scraping - www.football-data.co.uk
