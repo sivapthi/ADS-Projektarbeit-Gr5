@@ -2,7 +2,7 @@
 ZHAW - School of Management and Law - Frühlingssemester 22 
 
 
-# Autoren:
+# Autoren
 Davide Miceli, Kevin Ayiramala und Thinesan Sivapathasundaram
 
 
