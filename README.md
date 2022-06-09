@@ -39,3 +39,9 @@ Verwendung von Docker oder eines Cloud-Services (z.B. EC2-Instance, Jupyter-Note
 
 Forschungsbasierte Analyse der ethischen Fragestellung und potenzielle Risiken/Bias des entwickelten Produkts 
 -> Siehe ab  Folie 9
+
+# Quellen
+- Vorlesungsunterlagen Applied Data Science
+- https://github.com/llSourcell/Predicting_Winning_Teams
+- API - openligadb.de
+- Web scraping - www.football-data.co.uk
