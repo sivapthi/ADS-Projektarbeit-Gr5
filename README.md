@@ -3,8 +3,6 @@ Frühlingssemester 22 <p>ZHAW - School of Management and Law
 
 ## Autoren
 Davide Miceli, Kevin Ayiramala und Thinesan Sivapathasundaram
-  
-## Inhaltsverzeichnis
 
 
 ## Übersicht
